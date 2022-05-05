@@ -1,0 +1,7 @@
+app:
+  # -- An applicationId obtained from the StackHawk platform. --
+  applicationId: a1e7f72e-be75-4287-b3ce-09e0967ed6dc # (required)
+  # -- The environment for the applicationId defined in the StackHawk platform. --
+  env: Development # (required)
+  # -- The url of your application to scan --
+  host: http://localhost:3000 # (required)
